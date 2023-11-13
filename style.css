@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: hotpink;
+}
+
+header {
+  background-color: #f8b400;
+  color: white;
+  padding: 20px;
+}
+
+nav a {
+  margin-right: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+.menu{
+  padding: 20px;
+  margin: 20px;
+  font-size: 36px;
+
+}
+.menu-photo img{
+  height: 480px;
+  width: 100%;
+  object-fit: cover;
+}
+button{
+  background-color: red;
+  color: white;
+  border-radius: 20px;
+  padding: 20px;
+}
